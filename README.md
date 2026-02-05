@@ -18,7 +18,7 @@ Solución de prueba técnica Full Stack que implementa un sistema para crear, li
 ## ⚙️ Requisitos Previos
 
 Asegúrate de tener instalado:
-- **Java JDK 17** o superior.
+- **Java JDK 21** o superior.
 - **Node.js 20** o superior.
 - **MySQL Server** corriendo en el puerto `3306`.
 - **Maven** (opcional si usas el wrapper `mvnw` incluido).
