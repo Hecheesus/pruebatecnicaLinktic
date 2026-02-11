@@ -31,7 +31,7 @@ Asegúrate de tener instalado:
 Crea una base de datos vacía en tu servidor MySQL. La aplicación creará la tabla automáticamente al iniciar (Hibernate `ddl-auto: update`).
 
 ```sql
-CREATE DATABASE task_db;
+CREATE DATABASE task_manager_db;
 ```
 
 > **Nota:** Verifica que las credenciales en `src/main/resources/application.properties` del backend coincidan con tu instalación local de MySQL (usuario/password).
