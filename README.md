@@ -21,7 +21,7 @@ Asegúrate de tener instalado:
 - **Java JDK 21** o superior.
 - **Node.js 20** o superior.
 - **MySQL Server** corriendo en el puerto `3306`.
-- **Maven** (opcional si usas el wrapper `mvnw` incluido).
+- **GRaddle** 
 
 ---
 
