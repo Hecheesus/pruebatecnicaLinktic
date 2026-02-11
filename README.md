@@ -40,8 +40,7 @@ CREATE DATABASE task_manager_db;
 Navega a la carpeta del backend y ejecútalo:
 
 ```bash
-cd backend
-./mvnw spring-boot:run
+Abrir con el IDE la carpeta  pruebaTask/demo, complicar y ejecutar el jar generado
 ```
 *El servidor iniciará en: `http://localhost:8081` (o el puerto configurado).*
 
@@ -49,7 +48,7 @@ cd backend
 En una nueva terminal, navega a la carpeta del frontend:
 
 ```bash
-cd frontend
+cd mi-app-tareas
 npm install
 npm run dev
 ```
