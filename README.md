@@ -40,7 +40,9 @@ CREATE DATABASE task_manager_db;
 Navega a la carpeta del backend y ejecútalo:
 
 ```bash
-Abrir con el IDE la carpeta  pruebaTask/demo, complicar y ejecutar el jar generado
+cd pruebaTask/demo
+./gradlew bootRun
+
 ```
 *El servidor iniciará en: `http://localhost:8081` (o el puerto configurado).*
 
